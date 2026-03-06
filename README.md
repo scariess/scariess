@@ -13,6 +13,6 @@ Trying to break things so I can learn how to secure them 🔒︎ ༝
 - ♡ Youtube
 - ♡ Anything cybersecurity related I can get my hands on
 
-## 𓏵 TryHackMe
+## ⛓ TryHackMe
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/scaries.png" alt="TryHackMe Badge">
