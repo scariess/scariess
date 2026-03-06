@@ -1,6 +1,6 @@
 ## Ni Haowdy ฅ՞•ﻌ•՞ฅ, I'm Celin
 
-Aspiring cybersecurity student 🔒︎🗝 ༝
+Trying to break things so I can learn how to secure them 🔒︎ ༝
 
 ## Currently learning:
 - ♡ Networking
