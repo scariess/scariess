@@ -12,3 +12,7 @@ Trying to break things so I can learn how to secure them 🔒︎ ༝
 - ♡ Google Cybersecurity Certificate
 - ♡ Youtube
 - ♡ Anything cybersecurity related I can get my hands on
+
+## 𓏵 TryHackMe
+
+![Badges](https://tryhackme-badges.s3.amazonaws.com/scariess.png)
