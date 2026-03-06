@@ -15,4 +15,4 @@ Trying to break things so I can learn how to secure them 🔒︎ ༝
 
 ## 𓏵 TryHackMe
 
-![Badges](https://tryhackme-badges.s3.amazonaws.com/scariess.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/scaries.png" alt="TryHackMe Badge">
