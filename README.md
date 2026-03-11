@@ -2,7 +2,7 @@
 
 Trying to break things so I can learn how to secure them 🔒︎ ༝
 - TryHackMe Pre Security Path
-[█████░░░░░] 50%
+[███████░░░] 70%
 
 
 ## Currently learning:
