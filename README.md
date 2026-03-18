@@ -2,20 +2,22 @@
 
 Trying to break things so I can learn how to secure them 🔒︎ ༝
 - TryHackMe Pre Security Path
-[███████░░░] 70%
+[██████████] 100%
+- Jr Penetration Tester Path
+[██░░░░░░░░] 20%
 
 
 ## Currently learning:
-♡ Networking
+♡ Ethical Hacking
 
-♡ Linux
+♡ Pentesting
 
- ♡ Web security
+♡ Linux ( Bash / CLI )
 
 ## Platforms:
 ♡ TryHackMe
 
-♡ Google Cybersecurity Certificate
+♡ PortSwigger (Web Security Academy)
 
 ♡ Youtube
 
