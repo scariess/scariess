@@ -14,6 +14,8 @@ Trying to break things so I can learn how to secure them 🔒︎ ༝
 
 ♡ Linux ( Bash / CLI )
 
+♡ Python ( beginner scripting )
+
 ## Platforms:
 ♡ TryHackMe
 
