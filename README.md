@@ -27,7 +27,7 @@ Trying to break things so I can learn how to secure them 🔒︎ ༝
 
 ## ⛓ TryHackMe
 <p>
-  <a href="https://tryhackme.com/p/scariess">
+  <a href="https://tryhackme.com/p/scaries">
     <img src="https://tryhackme-badges.s3.amazonaws.com/scaries.png"/>
   </a>
 </p>
