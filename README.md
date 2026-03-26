@@ -26,7 +26,11 @@ Trying to break things so I can learn how to secure them 🔒︎ ༝
 ♡ Anything cybersecurity related I can get my hands on
 
 ## ⛓ TryHackMe
-<img src="https://tryhackme-badges.s3.amazonaws.com/scaries.png?v=10" />
+<p>
+  <a href="https://tryhackme.com/p/scariess">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/scaries.png"/>
+  </a>
+</p>
 
 ## 🐉 Dragons Slayed
 <img src="images/THM-Pre-Sec.jpg"/>
