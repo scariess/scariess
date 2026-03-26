@@ -1,4 +1,4 @@
-## Ni Haowdy, I'm Celin ฅ՞•ﻌ•՞ฅ
+## Hii, I'm Celin ฅ՞•ﻌ•՞ฅ
 
 Trying to break things so I can learn how to secure them 🔒︎ ༝
 - TryHackMe Pre Security Path
@@ -15,6 +15,8 @@ Trying to break things so I can learn how to secure them 🔒︎ ༝
 ♡ Linux ( Bash / CLI )
 
 ♡ Python ( beginner scripting )
+
+♡ HTML & CSS (foundations)
 
 ## Platforms:
 ♡ TryHackMe
