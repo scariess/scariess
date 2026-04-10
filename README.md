@@ -3,8 +3,8 @@
 Learning how systems break so I can understand how to secure them 🔒︎ ༝
 - TryHackMe Pre Security Path
 [██████████] 100%
-- Jr Penetration Tester Path
-[██░░░░░░░░] 20%
+- Jr Penetration Tester Path (in progress)
+[███░░░░░░░] 30%
 
 
 ## Currently learning:
