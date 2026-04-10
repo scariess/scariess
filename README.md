@@ -1,6 +1,6 @@
 ## Hii, I'm Celin ฅ՞•ﻌ•՞ฅ
 
-Trying to break things so I can learn how to secure them 🔒︎ ༝
+Learning how systems break so I can understand how to secure them 🔒︎ ༝
 - TryHackMe Pre Security Path
 [██████████] 100%
 - Jr Penetration Tester Path
